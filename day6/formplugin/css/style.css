@@ -1,0 +1,9 @@
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+
+input#submitBtn {
+    background-color: purple;
+}
